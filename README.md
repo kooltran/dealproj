@@ -1,1 +1,3 @@
-#huong dan dealproject
+# DealProject
+
+a [Sails](http://sailsjs.org) application
